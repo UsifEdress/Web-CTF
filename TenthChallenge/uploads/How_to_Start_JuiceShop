@@ -1,0 +1,4 @@
+we need to run the command 
+	"sudo docker run --rm -p 127.0.0.1:3000:3000 bkimminich/juice-shop"
+	
+then we can use firefox with the url "127.0.0.1:3000"
