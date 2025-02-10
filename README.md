@@ -1,3 +1,4 @@
+بسم الله الرحمن الرحيم❤️
 Hello Guys, 
 I'm Youssef Edress.
 This is my simple CTF , 
@@ -10,3 +11,5 @@ This is  My First Try , Sorry for any challenges that it's Idea is not as good a
 
 Here's the Solution :
 https://drive.google.com/drive/folders/1A7JvI0tCYzHG54azrwu6mS0TkFKj3OvQ?usp=sharing
+
+سبحانك اللهم و بحمدك أشهد ان لا اله الا انت استغفرك و اتوب اليك ❤️
