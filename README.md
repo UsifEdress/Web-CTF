@@ -2,7 +2,7 @@ Hello Guys,
 I'm Youssef Edress.
 This is my simple CTF , 
 It was made for our Winter Workshop Students to have some fun,
-We illustrated some Vulnerabilities like SSRF , SQL Injection , IDOR , File Upload , some BAC Ideas , Some BLV and last one is Enumeration Process.
+We illustrated some Vulnerabilities like SSRF , SQL Injection , IDOR , File Upload , some BAC Ideas and Some BLV. we also illustrated Enumeration Process.
 
 NOTE :
 You can Clone the Repo as You want , I'm Available for any collaboration , to add any Value to Cyber Security Community ❤️.
